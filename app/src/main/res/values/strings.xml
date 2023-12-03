@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Event Handling Tips</string>
+    <string name="app_name">Моё приложение</string>
+    <string name="notification_title">Уведомление</string>
+    <string name="notification_empty_name">Пожалуйста, укажите Фамилию, Имя и Отчество.</string>
+    <string name="notification_empty_phone">Пожалуйста, укажите номер телефона.</string>
+    <string name="notification_empty_address">Пожалуйста, укажите адрес доставки.</string>
+    <string name="order_placed">Заказ оформлен.</string>
+    <string name="button_text">Оформить заказ</string>
 </resources>
